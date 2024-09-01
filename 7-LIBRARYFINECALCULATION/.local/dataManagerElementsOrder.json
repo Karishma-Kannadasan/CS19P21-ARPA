@@ -1,0 +1,27 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "libraryfinecalculation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Intindex&Sequence_2",
+        "NOOFDAYS&Sequence_3",
+        "dtresultdata&Sequence_1",
+        "dtresult&Sequence_1",
+        "dtborrows&Sequence_1",
+        "datatable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
